@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Tests" verbose="1">
+    <test name="Database Tests">
+        <classes>
+            <class name="org.example.WorkbenchDbConnectionTest" />
+        </classes>
+    </test>
+</suite>
